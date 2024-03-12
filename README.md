@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lcoma&theme=onedark)
+
 <p align="left">
   <img alt="Anurag's GitHub stats" height="200px" src="https://github-readme-status-jade.vercel.app/api?username=lcoma&theme=onedark&show_icons=true&count_private=true&include_all_commits=true" />
   <img alt="Top Langs" height="200px" src="https://github-readme-status-jade.vercel.app/api/top-langs/?username=lcoma&theme=onedark&layout=compact&count_private=true&langs_count=8" />
