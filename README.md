@@ -1,10 +1,10 @@
 
 <p align="left">
-  <img alt="Anurag's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=lcoma&theme=radical&show_icons=true" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcoma&layout=compact&theme=radical" />
+  <img alt="Anurag's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=lcoma&theme=onedark&show_icons=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcoma&layout=compact&theme=onedark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lcoma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lcoma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
