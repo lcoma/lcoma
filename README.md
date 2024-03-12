@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img alt="Anurag's GitHub stats" height="150px" src="https://github-readme-status-jade.vercel.app/api?username=lcoma&theme=onedark&show_icons=true&count_private=true" />
+  <img alt="Anurag's GitHub stats" height="150px" src="https://github-readme-status-jade.vercel.app/api?username=lcoma&theme=onedark&show_icons=true&count_private=true&include_all_commits=true" />
   <img alt="Top Langs" height="150px" src="https://github-readme-status-jade.vercel.app/api/top-langs/?username=lcoma&theme=onedark&layout=compact&count_private=true" />
 </p>
 
