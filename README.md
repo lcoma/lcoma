@@ -9,10 +9,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lcoma)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lcoma&theme=nord_bright)
-
-
-
 <!--
 **lcoma/lcoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
