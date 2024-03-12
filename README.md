@@ -4,6 +4,7 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcoma&layout=compact&theme=radical" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=lcoma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
